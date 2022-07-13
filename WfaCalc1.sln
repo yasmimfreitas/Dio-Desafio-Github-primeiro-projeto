@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WfaCalc1", "WfaCalc1\WfaCalc1.csproj", "{548647A9-3CA5-43E1-AFC5-5E35F092C6B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClContas", "ClContas\ClContas.csproj", "{89609774-1F0A-41B2-B550-E0E811AB4EBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{548647A9-3CA5-43E1-AFC5-5E35F092C6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548647A9-3CA5-43E1-AFC5-5E35F092C6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548647A9-3CA5-43E1-AFC5-5E35F092C6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548647A9-3CA5-43E1-AFC5-5E35F092C6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89609774-1F0A-41B2-B550-E0E811AB4EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89609774-1F0A-41B2-B550-E0E811AB4EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89609774-1F0A-41B2-B550-E0E811AB4EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89609774-1F0A-41B2-B550-E0E811AB4EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {925B5654-8275-493B-97C3-771C0B538EEC}
+	EndGlobalSection
+EndGlobal

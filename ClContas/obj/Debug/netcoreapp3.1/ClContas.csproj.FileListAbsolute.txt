@@ -1,0 +1,30 @@
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\ClContas\bin\Debug\netcoreapp3.1\Contas.deps.json
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\ClContas\bin\Debug\netcoreapp3.1\Contas.dll
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\ClContas\bin\Debug\netcoreapp3.1\Contas.pdb
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\ClContas.csproj.AssemblyReference.cache
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\ClContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\ClContas.AssemblyInfoInputs.cache
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\ClContas.AssemblyInfo.cs
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\ClContas.csproj.CoreCompileInputs.cache
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\Contas.dll
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\Contas.pdb
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\ClContas\bin\Debug\netcoreapp3.1\Contas.deps.json
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\ClContas\bin\Debug\netcoreapp3.1\Contas.dll
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\ClContas\bin\Debug\netcoreapp3.1\Contas.pdb
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\ClContas.csproj.AssemblyReference.cache
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\ClContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\ClContas.AssemblyInfoInputs.cache
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\ClContas.AssemblyInfo.cs
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\ClContas.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\Contas.dll
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\ClContas\obj\Debug\netcoreapp3.1\Contas.pdb
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\ClContas\bin\Debug\netcoreapp3.1\Contas.deps.json
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\ClContas\bin\Debug\netcoreapp3.1\Contas.dll
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\ClContas\bin\Debug\netcoreapp3.1\Contas.pdb
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\ClContas\obj\Debug\netcoreapp3.1\ClContas.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\ClContas\obj\Debug\netcoreapp3.1\ClContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\ClContas\obj\Debug\netcoreapp3.1\ClContas.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\ClContas\obj\Debug\netcoreapp3.1\ClContas.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\ClContas\obj\Debug\netcoreapp3.1\ClContas.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\ClContas\obj\Debug\netcoreapp3.1\Contas.dll
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\ClContas\obj\Debug\netcoreapp3.1\Contas.pdb

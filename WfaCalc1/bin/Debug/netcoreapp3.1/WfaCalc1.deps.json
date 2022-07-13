@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WfaCalc1/1.0.0": {
+        "dependencies": {
+          "Contas": "1.0.0"
+        },
+        "runtime": {
+          "WfaCalc1.dll": {}
+        }
+      },
+      "Contas/1.0.0": {
+        "runtime": {
+          "Contas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WfaCalc1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Contas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

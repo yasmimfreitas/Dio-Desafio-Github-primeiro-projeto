@@ -1,0 +1,60 @@
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.exe
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.deps.json
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.runtimeconfig.json
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.runtimeconfig.dev.json
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.dll
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.pdb
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\Contas.dll
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\Contas.pdb
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.csproj.AssemblyReference.cache
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.FrmCalc.resources
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.Properties.Resources.resources
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.csproj.GenerateResource.cache
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.AssemblyInfoInputs.cache
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.AssemblyInfo.cs
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.csproj.CoreCompileInputs.cache
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.csproj.CopyComplete
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.dll
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.pdb
+C:\Users\luiz.flalmeida\source\repos\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.genruntimeconfig.cache
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.exe
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.deps.json
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.runtimeconfig.json
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.runtimeconfig.dev.json
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.dll
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.pdb
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\Contas.dll
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\bin\Debug\netcoreapp3.1\Contas.pdb
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.csproj.AssemblyReference.cache
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.FrmCalc.resources
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.Properties.Resources.resources
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.csproj.GenerateResource.cache
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.AssemblyInfoInputs.cache
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.AssemblyInfo.cs
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.csproj.CopyComplete
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.dll
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.pdb
+C:\Users\LabInfo_2022\Desktop\WfaCalc1\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.genruntimeconfig.cache
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.exe
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.deps.json
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.runtimeconfig.json
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.runtimeconfig.dev.json
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.dll
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\bin\Debug\netcoreapp3.1\WfaCalc1.pdb
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\bin\Debug\netcoreapp3.1\Contas.dll
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\bin\Debug\netcoreapp3.1\Contas.pdb
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.FrmCalc.resources
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.dll
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.pdb
+C:\Users\Ricardo\Desktop\Yasmim\Programação\Bootcamp Santander\Dio-Desafio-Github-primeiro-projeto\WfaCalc1\obj\Debug\netcoreapp3.1\WfaCalc1.genruntimeconfig.cache
